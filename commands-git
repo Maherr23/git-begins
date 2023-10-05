@@ -1,0 +1,8 @@
+
+-cloner un repository:
+git clone https://github.com/utilisateur/nom-du-repository.git
+
+-Les 3 commandes de push:
+git add .
+git commit -m "Message du commit"
+git push origin master
